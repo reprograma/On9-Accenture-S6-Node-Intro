@@ -231,7 +231,26 @@ A pasta node_modules contém bibliotecas baixadas do npm.
 
 ## Atividade Extra
 
-Para reforço do que vamos estudar em breve, faça o [estudo](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) do módulo 0, 1 e se quiser o 2. 
-Em seguida, até sábado crie uma pull request com a explicação e exemplos do que é sincronia funções em Javascript. 
+ Revisar conteúdo compartilhado em sala de aula e criar um arquivo **json** com as seguintes informações:
+ 
+ Tipos mais frequentes de métodos HTTP e status do código que utilizamos.
+ Criar no mínimo 5 simulações com metodos e status. 
+ 
+ No arquivo, precisa conter as informações abaixo:
+ 
+ Nome do método,
+ Status do código,
+ Informação do Status do código.
+ 
+ **Exemplo:**
+ 
+ metodo: POST
+ status: (um dos status)
+ informacaoStatus: foi um status informativo? deu erro? aqui será de acordo com a response. 
 
+ metodo: GET
+ status: 500
+ informacaoStatus: erro interno no servidor
+ 
+ 
 
