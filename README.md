@@ -142,6 +142,10 @@ Conteúdo extra:
 
 * [O que é HTTPS?](https://www.hostinger.com.br/tutoriais/o-que-e-ssl-tls-https/)
 
+* [O que é LocalHost?](https://www.hostinger.com.br/tutoriais/o-que-e-localhost/#:~:text=Conclus%C3%A3o-,O%20que%20significa%20Localhost%3F,um%20sistema%20que%20roda%20internamente.)
+
+* [Domínio](https://kosbit.com.br/curiosidades/o-que-e-e-para-que-serve-um-dominio/)
+
 * [Headers/Cabeçalhos](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Headers)
 
 * [Ferramentas de desenvolvimento em navegadores](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/ferramentas_de_desenvolvimento_do_navegador)
