@@ -222,7 +222,7 @@ O Yarn permite a você usar soluções de outros desenvolvedores para diferentes
 
 O código é compartilhado através do que chamamos de pacote (às vezes chamado de módulo). Um pacote contém todo o código sendo compartilhado, juntamente com um arquivo package.json que descreve o pacote.
 
-retirado do site (oficial)[https://classic.yarnpkg.com/pt-BR/]
+retirado do site [oficial](https://classic.yarnpkg.com/pt-BR/)
 
 
 ## Package.json
