@@ -1,0 +1,31 @@
+[
+    {
+        "metodo": "GET",
+        "status": "",
+        "informacaoStatus": ""
+    },
+
+    {
+        "metodo": "POST",
+        "status": "",
+        "informacaoStatus": ""
+    },
+
+    {
+        "metodo": "PUT",
+        "status": "",
+        "informacaoStatus": ""
+    },
+
+    {
+        "metodo": "DELETE",
+        "status": "",
+        "informacaoStatus": ""
+    },
+
+    {
+        "metodo": "",
+        "status":"",
+        "informacaoStatus":""
+    }
+]
