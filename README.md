@@ -249,6 +249,7 @@ A pasta node_modules contém bibliotecas baixadas do npm.
  status: (um dos status)
  
  informacaoStatus: foi um status informativo? deu erro? aqui será de acordo com a response. 
+ ______
 
  metodo: GET
  
