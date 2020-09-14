@@ -169,7 +169,6 @@ Em JSON, os dados são apresentados desta forma:
 
 Um objeto é um conjunto desordenado de pares nome/valor. Um objeto começa com {chave de abertura e termina com }chave de fechamento. Cada nome é seguido por :dois pontos e os pares nome/valor são seguidos por ,vírgula.
 
-**"propriedade":** *"valor"* 
 
 ```javascript
 "propriedade:" "valor"
