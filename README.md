@@ -138,26 +138,20 @@ ___
 
  
 
-Mais informaçõoes [aqui]().
-
- 
-
 Conteúdo extra:
-
- 
 
 * [O que é HTTPS?](https://www.hostinger.com.br/tutoriais/o-que-e-ssl-tls-https/)
 
 * [Headers/Cabeçalhos](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Headers)
+
+* [Ferramentas de desenvolvimento em navegadores](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/ferramentas_de_desenvolvimento_do_navegador)
 
  
 ___
 
 # JSON
 
-JavaScript Object Notation (JSON) é um formato baseado em texto padrão para representar dados estruturados com base na sintaxe do objeto JavaScript. É comumente usado para transmitir dados em aplicativos da Web (por exemplo, enviar alguns dados do servidor para o cliente, para que possam ser exibidos em uma página da Web ou vice-versa). Você se deparará com isso com bastante frequência. 
-
-Um exemplo de onde isso é usado são as respostas de serviços da web. Antigamente, os serviços da web usavam XML como seu formato de dados principal para transmitir dados de volta, mas desde que JSON apareceu, tem sido o formato preferido porque é muito mais leve
+JSON (JavaScript Object Notation - Notação de Objetos JavaScript) é uma formatação leve de troca de dados. Para nós é mais tranquilo de compreender de ler e escrever. Para máquinas, é fácil de interpretar e gerar. Está baseado em um subconjunto da linguagem de programação JavaScript. JSON é em formato de texto e completamente independente de linguagem, pois usa convenções que são familiares às linguagens C e familiares, incluindo C++, C#, Java, JavaScript, Perl, Python e muitas outras. Estas propriedades fazem com que JSON seja um formato ideal de troca de dados.
 
 **JSON é baseado em duas estruturas:**
 
@@ -165,10 +159,25 @@ Um exemplo de onde isso é usado são as respostas de serviços da web. Antigame
 
 * Uma lista ordenada de valores. Na maioria das linguagens, isso é realizado como um array, vetor, lista ou sequência.
 
+Estas são estruturas de dados universais. Virtualmente todas as linguagens de programação modernas as suportam, de uma forma ou de outra. É aceitavel que um formato de troca de dados que seja independente de linguagem de programação se baseie nestas estruturas.
 
-pare do texto foi retirado do [Developer Mozilla](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript/Objetos/JSON)
+Em JSON, os dados são apresentados desta forma:
 
-[Site oficial](https://www.json.org/json-en.html)
+Um objeto é um conjunto desordenado de pares nome/valor. Um objeto começa com {chave de abertura e termina com }chave de fechamento. Cada nome é seguido por :dois pontos e os pares nome/valor são seguidos por ,vírgula.
+
+**"propriedade":** *"valor"* 
+
+```javascript
+"propriedade:" "valor"
+```
+
+[Site oficial](https://www.json.org/json-pt)
+
+
+**Conteúdo extra:**
+
+* [Developer Mozilla](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript/Objetos/JSON)
+
 
 ___ 
 
@@ -194,7 +203,6 @@ Tanto o JavaScript do navegador quanto o Node.js são executados no mecanismo de
 
 * [Instalação no MacOS](https://pplware.sapo.pt/tutoriais/node-js-aprenda-instalar-no-macos/)
  
-
 
 
 ## NPM
@@ -244,6 +252,7 @@ A pasta node_modules contém bibliotecas baixadas do npm.
  
  **Exemplo:**
  
+ ```javascript 
  metodo: POST
  
  status: (um dos status)
@@ -256,6 +265,11 @@ A pasta node_modules contém bibliotecas baixadas do npm.
  status: 500
  
  informacaoStatus: erro interno no servidor
+ 
+```
+
+
+# [Link da apresentação](https://docs.google.com/presentation/d/1i9-1b8-w0DCVi8wre57BAUO50Twwz5Yaib_xJMAZa7E/edit?usp=sharing)
  
  
 
