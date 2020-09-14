@@ -1,0 +1,11 @@
+[
+	{
+		"id": "1",
+		"nome": "Jéssica",
+		"cpfNota": "123",
+		"valorTotalCompra": 300.05,
+		"qdeItems": 1,
+		"item": { "nome": "tenis-x", "valor": 300.05, "modelo": "conforto" },
+		"colaboradora": false
+	}
+]

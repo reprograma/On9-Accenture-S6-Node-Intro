@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"isbn": "978-65-5560-030-8",
+		"nomeLivro": "Sol da Meia-Noite",
+		"editora": "EDITORA INTRÍNSECA LTDA.",
+		"autora": " Stephenie Meyer",
+		"anoPublicacao": 2020,
+		"descricao": "Aguardado há mais de uma década, Sol da meia-noite, novo livro do universo de Crepúsculo, chega ao Brasil em lançamento mundial no dia 4 de agosto
+		Um dos maiores fenômenos editoriais dos últimos tempos, a saga Crepúsculo narra a icônica história de amor de Bella Swan, uma garota tímida e desastrada, que 
+		acaba de mudar de cidade, e Edward Cullen, um rapaz misterioso que esconde um segredo aterrorizante: é um vampiro. Desde a primeira troca de olhares, ele fez 
+		tudo para ficar longe dela, mas e se as coisas não tiverem acontecido exatamente assim?
+		Até agora, os leitores conheceram essa trama inesquecível apenas pelos olhos de Bella. No aguardado Sol da meia-noite, vamos testemunhar o nascimento desse 
+		amor pelo olhar de Edward, mergulhando em um universo novo, sombrio e surpreendente, cheio de revelações.
+		Conhecer Bella foi o que aconteceu de mais irritante e instigante em todos os anos de Edward como vampiro. À medida que conhecemos detalhes sobre seu passado 
+		e a complexidade de seus pensamentos, conseguimos entender por que Bella se tornou o eixo central de uma batalha decisiva em sua vida. Como Edward poderia 
+		seguir seu coração se isso significava colocar a amada em perigo? Do que ele seria capaz de abrir mão?
+		Em Sol da meia-noite, Stephenie Meyer faz um retorno triunfal ao universo de Crepúsculo e nos transporta mais uma vez para Forks, convidando-nos a revisitar 
+		cada detalhe dessa história que conquistou milhões de fãs em todo o mundo. Em meio a uma paixão cercada de perigos sobrenaturais, vamos descobrir como Edward 
+		encara seus prazeres mais profundos e as consequências devastadoras de um amor proibido e imortal.",
+	},
+	{
+		"id": 2,
+		"isbn": "978-8535908770",
+		"nomeLivro": "Vestido Para Morrer",
+		"editora": "Companhia das Letras",
+		"autora": "Donna Leon",
+		"anoPublicacao": 2006,
+		"descricao": "Se não fosse pelo feriado de Ferragosto - que todos os anos inunda Veneza de turistas - a notícia de um travesti encontrado morto num terreno 
+		baldio certamente se tornaria o assunto mais comentado da cidade. Além disso, uma onda de calor faz os moradores se trancarem em suas casas, na segurança 
+		dos aparelhos de ar-condicionado, e o crime fica diluído entre os muitos outros escândalos que estampam as capas dos jornais. Para o chefe da polícia de 
+		Veneza, trata-se de um caso simples, banal: o michê fora assassinado por um cliente, insatisfeito com os serviços prestados. Apenas o comissário Guido 
+		Brunetti suspeita de algo maior por trás do crime. Quando o corpo é identificado como sendo o de um diretor de banco, Brunetti se vê às voltas com uma 
+		conspiração que envolve algumas das figuras mais importantes da cidade, e novos cadáveres não tardam a aparecer.",
+	},
+	{
+		"id": 3,
+		"isbn": "ASIN B01LXJGING",
+		"nomeLivro": "Vida Assistida",
+		"editora": "Editora Record",
+		"autora": "Tess Gerritsen",
+		"anoPublicacao": 2016,
+		"descricao": "A idealista Toby Harper vê sua tranquila rotina no turno da noite do hospital Springer desabar depois do desaparecimento de um homem 
+		desorientado do pronto-socorro. Sem conseguir ignorar o caso, ela começa a investigar o lar do paciente: a clínica Brant Hill – um novo conceito em tratamento 
+		e internação de idosos. Para piorar a situação, outro de seus internos deu entrada no hospital com convulsões e confusão mental. Toby desconfia de alguma 
+		toxina ou tratamento e, seguindo uma trilha de mistérios que vai de uma prostituta de 16 anos grávida até a sua própria casa, Toby descobre o impensável: a 
+		epidemia não aconteceu espontaneamente – alguém a deflagrou. As peças desse quebra-cabeça, competentemente concebido, só se encaixam na última página, e 
+		Tess Gerritsen mais uma vez surpreende pela acuidade dos aspectos técnicos e pela equilibrada mescla de ciência e investigação criminal – sem descuidar da 
+		intriga e do mistério.",
+	},
+	{
+		"id": 4,
+		"isbn": "ASIN B01LX7PQKN",
+		"nomeLivro": "Gravidade",
+		"editora": "Editora Record",
+		"autora": "Tess Gerritsen",
+		"anoPublicacao": 2016,
+		"descricao": "A pesquisadora Emma Watson está prestes a realizar a missão mais importante de sua vida: estudar o comportamento da vida terrestre no espaço. 
+		Escolhida pela Nasa para conduzir uma série de experimentos sobre o comportamento de organismos unicelulares, a Dra. Watson logo descobre a natureza 
+		aterrorizante desses organismos e precisa correr contra o tempo para conter uma doença mortal que pode ameaçar a Terra. Tess Gerritsen se aventura no 
+		campo do desconhecido, e o resultado é este suspense que mistura, de forma brilhante, ficção científica e medicina.",
+	},
+	{
+		"id": 5,
+		"isbn": "978-8543105819",
+		"nomeLivro": "Me Poupe!: 10 passos para nunca mais faltar dinheiro no seu bolso",
+		"editora": "Editora Sextante",
+		"autora": "Nathalia Arcuri",
+		"anoPublicacao": 2018,
+		"descricao": "Os fãs do canal Me Poupe! não vão se decepcionar. Nathalia Arcuri venceu o desafio de levar para o papel a linguagem que se tornou sua 
+		marca registrada, o que deve fidelizar multidões e reforçar o propósito de seu trabalho. Você tem em mãos um instrumento de transformação. Leia-o com 
+		sabedoria e coloque em prática o que encontrar aqui. Sua vida será outra, certamente mais rica, depois desta leitura.",
+	}
+]
