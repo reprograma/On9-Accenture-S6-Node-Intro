@@ -245,11 +245,15 @@ A pasta node_modules contém bibliotecas baixadas do npm.
  **Exemplo:**
  
  metodo: POST
+ 
  status: (um dos status)
+ 
  informacaoStatus: foi um status informativo? deu erro? aqui será de acordo com a response. 
 
  metodo: GET
+ 
  status: 500
+ 
  informacaoStatus: erro interno no servidor
  
  
