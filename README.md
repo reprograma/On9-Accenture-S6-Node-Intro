@@ -269,7 +269,7 @@ A pasta node_modules contém bibliotecas baixadas do npm.
 ```
 
 
-# [Link da apresentação:](https://docs.google.com/presentation/d/1i9-1b8-w0DCVi8wre57BAUO50Twwz5Yaib_xJMAZa7E/edit?usp=sharing)
+# [Link da apresentação](https://docs.google.com/presentation/d/1i9-1b8-w0DCVi8wre57BAUO50Twwz5Yaib_xJMAZa7E/edit?usp=sharing)
  
  
 
