@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1001,
+        "isbn": "8530972163",
+        "nomeLivro": "A Condição Humana",
+        "editora": "Forense Universitaria",
+        "autora": "Hannah Arendt",
+        "anoPublicacao": 2016,
+        "descricao": "Relacao entre a condicao humana e a vita activa."
+    },
+    {
+        "id": 1002,
+        "isbn": "8525056030",
+        "nomeLivro": "A Ratoeira e Outras Peças",
+        "editora": "Globo Livros",
+        "autora": "Agatha Christie",
+        "anoPublicacao": 2014,
+        "descricao": "Agatha Christie da as pistas de por que ela fascina geracoes de leitores ao redor de todo o mundo."
+    },
+    {
+        "id": 1003,
+        "isbn": "8503010313",
+        "nomeLivro": "A Cor Púrpura",
+        "editora": "José Olympio",
+        "autora": "Alice Walker",
+        "anoPublicacao": 2009,
+        "descricao": "O romance A cor purpura retrata a dura vida de Celie, uma mulher negra no sul dos Estados Unidos da primeira metade do seculo XX."
+    },
+    {
+        "id": 1004,
+        "isbn": "8501044458",
+        "nomeLivro": "Diário de Anne Frank",
+        "editora": "Record",
+        "autora": "Anne Frank",
+        "anoPublicacao": 1995,
+        "descricao": "O diario de Anne Frank, o depoimento da pequena Anne, morta pelos nazistas apos passar anos escondida no sotao de uma casa em Amsterda."
+    },
+    {
+        "id": 1005,
+        "isbn": "8532520669",
+        "nomeLivro": "O Conto da Aia",
+        "editora": "Rocco",
+        "autora": "Margaret Atwood",
+        "anoPublicacao": 2017,
+        "descricao": "Se passa num futuro muito proximo e tem como cenario uma republica onde nao existem mais jornais, revistas, livros nem filmes."
+    }
+]

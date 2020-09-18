@@ -1,0 +1,16 @@
+[
+    {
+        "id": "DAHFGRTIDS113",
+        "nome": "Claudia",
+        "cpfNota": "008999888-99",
+        "valorTotalCompra": 300.05,
+        "colaboradora": false,
+        "desconto": true,
+        "quantidadeItens": 1,
+        "informacoesCompra": {
+            "nome": "TENIS-X",
+            "valor": 300.05,
+            "modeloTenis": "Conforto"
+        }
+    }
+]
