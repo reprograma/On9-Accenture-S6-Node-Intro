@@ -1,0 +1,46 @@
+[
+    {   "id": 1,
+        "IBSN": 9788581302737,
+        "nomeDoLivro": "Cova 312",
+        "editora": "Geração",
+        "autora": "Daniela Arbex",
+        "anoDaPublicacao": 2015,
+        "descricao": "jornalismo investigativo"
+    },
+    {
+        "id": 2,
+        "IBSN": 9788532530844,
+        "nomeDoLivro": "Harry Potter e as relíquias da morte",
+        "editora": "Rocco",
+        "autora": "J.K Rowling",
+        "anoDaPublicacao": 2007,
+        "descricao": "ficção"
+    },
+    {
+        "id": 3,
+        "IBSN": 9788547000684,
+        "nomeDoLivro": "Maria Bonita: Sexo, violência e mulheres no cangaço",
+        "editora": "Objetiva",
+        "autora": "Adriana Negreiros",
+        "anoDaPublicacao": 2018,
+        "descricao": "biográfico"
+    },
+    {
+        "id": 4,
+        "IBSN": 9788501103673,
+        "nomeDoLivro": "Presos que Menstruam",
+        "editora": "Record",
+        "autora": "Nana Queiroz",
+        "anoDaPublicacao": 2015,
+        "descricao": "jornalista investigativo"
+    },
+    {
+        "id": 5,
+        "IBSN":  9788588647404,
+        "nomeDoLivro": "Mulheres da Máfia",
+        "editora": "LandScape",
+        "autora": "Clare Longrigg",
+        "anoDaPublicacao": 2003,
+        "descricao": "jornalista investigativo"
+    }
+]

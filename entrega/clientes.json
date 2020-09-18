@@ -1,0 +1,35 @@
+[
+    {
+        "nome": "Allana",
+        "cpfNota": "50060025-32",
+        "valoTotalDaCompra": 300.25,
+        "quantidadeItens": 1,
+        "informacoesCompra": {
+            "nome": "Tenix-X",
+            "valor": 300.25,
+            "modeloTenis": "Conforto"
+        }
+    },
+    {
+        "nome": "Allana",
+        "cpfNota": "50060025-32",
+        "valoTotalDaCompra": 300.25,
+        "quantidadeItens": 1,
+        "informacoesCompra": {
+            "nome": "Tenix-X",
+            "valor": 300.25,
+            "modeloTenis": "Conforto"
+        }
+    },
+    {
+        "nome": "Allana",
+        "cpfNota": "50060025-32",
+        "valoTotalDaCompra": 300.25,
+        "quantidadeItens": 1,
+        "informacoesCompra": {
+            "nome": "Tenix-X",
+            "valor": 300.25,
+            "modeloTenis": "Conforto"
+        }
+    }
+]
