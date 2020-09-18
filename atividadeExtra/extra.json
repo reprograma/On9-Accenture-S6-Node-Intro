@@ -1,0 +1,27 @@
+[
+    {
+        "metodo": "GET",
+        "status": 404,
+        "informacaoStatus": "Not found. Indica que o servidor não conseguiu encontrar o recurso solicitado."
+    },
+    {
+        "metodo": "POST",
+        "status": 204,
+        "informacaoStatus": "No content. Indica que a solicitação foi bem sucedida e o cliente não precisa sair da página atual."
+    },
+    {
+        "metodo": "PUT",
+        "status": 401,
+        "informacaoStatus": "Unauthorized. Resposta de erro do cliente. O cliente deve se autenticar para obter a resposta solicitada."
+    },
+    {
+        "metodo": "DELETE",
+        "status": 200,
+        "informacaoStatus": "OK. Requisição foi bem sucedida."
+    },
+    {
+        "metodo": "HEAD",
+        "status": 202,
+        "informacaoStatus": "Accepted. A requisição foi recebida mas nenhuma ação foi tomada sobre ela."
+    }
+]

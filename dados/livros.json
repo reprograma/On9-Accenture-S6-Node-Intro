@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1, 
+    "ibsn": "AE10391", 
+    "nomeLivro": "Nome do Livro", 
+    "nomeAutora": "Nome aqui",
+    "anoPublicacao": 2020, 
+    "descricao": "Descrição aqui...."
+  },
+  {
+    "id": 2, 
+    "ibsn": "AE10204K", 
+    "nomeLivro": "Nome do Livro", 
+    "nomeAutora": "Nome aqui",
+    "anoPublicacao": 2020, 
+    "descricao": "Descrição aqui...."
+  },
+  {
+    "id": 3, 
+    "ibsn": "AE10ASC", 
+    "nomeLivro": "Nome do Livro", 
+    "nomeAutora": "Nome aqui",
+    "anoPublicacao": 2020, 
+    "descricao": "Descrição aqui...."
+  },
+  {
+    "id": 4, 
+    "ibsn": "AE10MMX-10", 
+    "nomeLivro": "Nome do Livro", 
+    "nomeAutora": "Nome aqui",
+    "anoPublicacao": 2020, 
+    "descricao": "Descrição aqui...."
+  }
+
+]
