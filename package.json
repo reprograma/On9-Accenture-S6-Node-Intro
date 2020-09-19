@@ -1,0 +1,19 @@
+{
+  "name": "atividade",
+  "version": "1.0.0",
+  "description": "Tipos mais frequentes de métodos HTTP e status do código que utilizamos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miclicia/On9-Accenture-S6-Node-Intro.git"
+  },
+  "author": "Michelle Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miclicia/On9-Accenture-S6-Node-Intro/issues"
+  },
+  "homepage": "https://github.com/miclicia/On9-Accenture-S6-Node-Intro#readme"
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "metodo": "GET",
+        "status": 101,
+        "infomacaoStatus": "Switching Protocol"
+    },
+    
+    {
+        "metodo": "GET",
+        "status": "500",
+        "informacaoStatus":  "Internal Server error"
+    },
+    
+    {
+        "nomeDoMetodo": "GET",
+        "statusDoCodigo": 404,
+        "infoDoStatus": "Not Found"
+    },
+    
+    {
+        "nomeDoMetodo": "GET",
+        "statusDoCodigo": 307,
+        "infoDoStatus": "Temporary Redirect"
+    },
+    
+    {
+        "metodo": "GET",
+        "status": "300",
+        "informacaoStatus": "Ok"
+    },
+    
+    {
+        "metodo": "POST",
+        "status": "400",
+        "informacaoStatus": "Bad Request"
+    }
+] 
