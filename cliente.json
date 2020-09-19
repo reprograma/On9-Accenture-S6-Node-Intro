@@ -1,0 +1,13 @@
+{
+    "nome": "Beth",
+    "cpfNota": "800900400-00",
+    "valorTotalCompra": 235.99,
+    "quantidadeItens": 1,
+    "informacoesCompra": {
+        "nome": "saltoAlto",
+        "valor": 235.99,
+        "modeloCalcado": "AlamedaYaya"
+    },
+    "colaboradoraDaLoja": false
+
+}
