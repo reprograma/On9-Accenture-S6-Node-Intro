@@ -1,0 +1,14 @@
+{
+    "id": "APLDMMAUEAK", 
+    "nomeCliente": "Eliane Silva",
+    "cpfNota": "5668427015-14981",
+    "colaboradora": true,
+    "desconto": 10,
+    "valorTotalCompra": 315.81,
+    "quantidadeItens": 1,
+    "informacoesCompra":{
+      "nome": "ALL STAR - WHITE", 
+      "valor": 350.90,
+      "modeloTenis": "Street"
+    }
+}

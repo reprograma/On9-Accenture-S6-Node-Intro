@@ -1,0 +1,50 @@
+[
+{   
+    "id": 1,
+    "ibsn": 9786555600292,
+    "nomeLivro": "Sol da Meia-Noite",
+    "editora": "Little",
+    "autora": "Stephenie Meyer",
+    "anoPublicacao": 2020,
+    "descricao": "Em sol da meia-noite, Stephenie Meyer faz um retorno triunfal ao universo de Crepúsculo."
+},
+{   
+    "id": 2,
+    "ibsn": 8532520669,
+    "nomeLivro": "O Conto da Aia",
+    "editora": "Rocco",
+    "autora": "Margareth Atwood",
+    "anoPublicacao": 1985,
+    "descricao": "Romance distópico que tem como cenário os Estados Unidos (rebatizados Gilead).Nesse estado teocrático e totalitário, as mulheres são isentas de qualquer direito sobre o próprio corpo."        
+},
+{   
+    "id": 3,
+    "ibsn": 19449780844227771,
+    "nomeLivro": "O Diário de Anne Frank",
+    "editora": "Otto Frank",
+    "autora": "Anne Frank",
+    "anoPublicacao": 1947,
+    "descricao": "A vida na Alemanha nazista pela ótica de uma jovem judia."
+    
+},
+{   
+    "id": 4,
+    "ibsn": 9788581220307,
+    "nomeLivro": "Jogos Vorazes",
+    "editora": "Rocco",
+    "autora": "Suzanne Collins",
+    "anoPublicacao": 2008,
+    "descricao": "Jogos vorazes é um livro de aventura, ação, distópico e pós-apocalíptico para jovens e adultos"
+    
+},
+{   
+    "id": 5,
+    "ibsn": 9780571200337,
+    "nomeLivro": "A Redoma de Vidro",
+    "editora": "Heinemann",
+    "autora": "Sylvia Plath",
+    "anoPublicacao": 1963,
+    "descricao": "A narrativa é inspirada nos acontecimentos do verão de 1952, quando Silvia Plath tentou o suicídio e foi internada em uma clínica psiquiátrica."
+    
+}
+]

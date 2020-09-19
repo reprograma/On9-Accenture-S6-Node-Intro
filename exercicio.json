@@ -1,0 +1,31 @@
+[
+    {
+        "metodo": "GET",
+        "status": 200,
+        "informacaoStatus": "Status informativo, somente para leitura"
+    },
+    
+    {   "metodo": "PUT",
+        "status": 409,
+        "informacaoStatus": "Status de erros do cliente, quando a solicitação entra em conflito com os dados no servidor."
+    },
+    
+    {
+        "metodo": "POST",
+        "status": 303,
+        "informacaoStatus": "Status de redirecionamento. Ele serve para redirecionar o usuário de uma ação POST para outro recurso. Ex: Quando você cria uma conta, e depois é redirecionado a página principal do site."
+    },
+    
+    {
+        "metodo": "DELETE",
+        "status": 204,
+        "informacaoStatus": "Status informativo que informa que a solicitação deu certo, funcionou."
+    },
+    
+    {
+        "metodo": "OPTIONS",
+        "status": 403,
+        "informacaoStatus": "Status erros do cliente, neste status, o servidor se recusa a dar acesso ao cliente."
+    }
+    
+]
