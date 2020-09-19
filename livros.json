@@ -1,0 +1,44 @@
+[
+    {
+    "Identificação": 1,
+    "ISBN": 8532520669,
+    "NomeDoLivro": "O Conto da Aia",
+    "Autora": "Margaret Atwood",
+    "AnoDaPubli": 1985,
+    "Descricao": "Romance distópico que tem como cenário os Estados Unidos (rebatizados Gilead) num futuro próximo sem imprensa, universidades ou sistema judiciário. Nesse estado teocrático e totalitário, as mulheres são isentas de qualquer direito sobre o próprio corpo."
+
+},
+
+{
+    "Identificação": 2,
+    "ISBN": 9788501044457,
+    "NomeDolivro": "O Diário de Anne Frank",
+    "Autora": "Anne Frank",
+    "AnoDaPubli": 1995,
+    "Descricao": "A vida na Alemanha nazista pela ótica de uma jovem judia."
+
+},
+
+{
+    "Identificação": 3,
+    "ISBN": 9788537817612,
+    "NomeDolivro": "Jane Eyre",
+    "Autora": "Charlotte Bronte",
+    "AnoDaPubli": 1847,
+    "Descricao": "Narrado em primeira pessoa, conta a vida de Jane, uma personagem rebelde e cheia de vida que questiona a posição da mulher na Inglaterra vitoriana."
+
+},
+
+{
+    "Identificação": 4,
+    "ISBN": 9788532529442,
+    "NomeDolivro": "Mulheres que Correm Com os Lobos",
+    "Autora": ", Clarissa Pinkola Estes",
+    "AnoDaPubli": 1990 ,
+    "Descricao": "Lançado no começo dos anos 1990, trata de diferentes arquétipos femininos através da análise de histórias do folclore mundial."
+
+}
+
+
+]
+
