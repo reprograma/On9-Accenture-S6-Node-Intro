@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ABCD1234",
+    "nomeCliente": "Jennyffer",
+    "cpfNota": "13820854878",
+    "valorNotaCompra": 200.5,
+    "quantidadeItens": 1,
+    "informacoesCompra": {
+      "nome": "DAKOTA-C",
+      "valor": 200.5,
+      "modeloTenis": "Dad Sneaker"
+    },
+    "colaboradora": false
+  },
+  {
+    "id": "ABCD1234",
+    "nomeCliente": "Jennyffer",
+    "cpfNota": "13820854878",
+    "valorNotaCompra": 200.5,
+    "quantidadeItens": 1,
+    "informacoesCompra": {
+      "nome": "DAKOTA-C",
+      "valor": 200.5,
+      "modeloTenis": "Dad Sneaker"
+    },
+    "colaboradora": false
+  },
+  {
+    "id": "ABCD1234",
+    "nomeCliente": "Jennyffer",
+    "cpfNota": "13820854878",
+    "valorNotaCompra": 200.5,
+    "quantidadeItens": 1,
+    "informacoesCompra": {
+      "nome": "DAKOTA-C",
+      "valor": 200.5,
+      "modeloTenis": "Dad Sneaker"
+    },
+    "colaboradora": false
+  }
+]

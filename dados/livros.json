@@ -1,0 +1,52 @@
+[
+  {
+    "id": "00001",
+    "ibsn": "9788580700190",
+    "nome": "Orgulho e Preconceito",
+    "editora": "Landmark",
+    "autora": "Jane Austen",
+    "anoPublicacao": "2012",
+    "descricao": "Orgulho e Preconceito pode ser considerado como especial porque transcende o preconceito causado pelas falsas primeiras impressões e adentra no psicológico, mostrando como o autoconhecimento pode interferir nos julgamentos errôneos feitos a outras pessoas.",
+    "lido": true
+  },
+  {
+    "id": "00002",
+    "ibsn": "9788542815788",
+    "nome": "O diário de Anne Frank",
+    "editora": "Novo Século",
+    "autora": "Anne Frank",
+    "anoPublicacao": "2019",
+    "descricao": "O diário de Anne Frank, o depoimento da pequena Anne, morta pelos nazistas após passar anos escondida no sótão de uma casa em Amsterdã, ainda hoje emociona leitores no mundo inteiro.",
+    "lido": true
+  },
+  {
+    "id": "00003",
+    "ibsn": "9788535927061",
+    "nome": "A vida invisível de Eurídice Gusmão",
+    "editora": "Companhia das Letras",
+    "autora": "Martha Batalha",
+    "anoPublicacao": "2016",
+    "descricao": "Rio de Janeiro, anos 1940. Guida Gusmão desaparece da casa dos pais sem deixar notícias, enquanto sua irmã Eurídice se torna uma dona de casa exemplar. Mas nenhuma das duas parece feliz em suas escolhas.",
+    "lido": true
+  },
+  {
+    "id": "00004",
+    "ibsn": "9788535932874",
+    "nome": "Pequeno manual antirracista",
+    "editora": "Companhia das Letras",
+    "autora": "Djamila Ribeiro",
+    "anoPublicacao": "2019",
+    "descricao": "Neste pequeno manual, a filósofa e ativista Djamila Ribeiro trata de temas como atualidade do racismo, negritude, branquitude, violência racial, cultura, desejos e afetos.",
+    "lido": false
+  },
+  {
+    "id": "00005",
+    "ibsn": "9788508171279",
+    "nome": "Quarto de Despejo",
+    "editora": "Atica Infantil",
+    "autora": "Carolina Maria de Jesus",
+    "anoPublicacao": "2014",
+    "descricao": "A linguagem simples, mas contundente, comove o leitor pelo realismo e pelo olhar sensível na hora de contar o que viu, viveu e sentiu nos anos em que morou na comunidade do Canindé, em São Paulo, com três filhos.",
+    "lido": false
+  }
+]
