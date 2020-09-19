@@ -1,0 +1,39 @@
+metodo: GET
+
+status: 404
+
+informacaoStatus: página não encontrada
+
+___________________________
+
+metodo: POST
+
+status: 415
+
+informacaoStatus: Tipo de mídia não suportado
+
+___________________________
+
+metodo: GET
+
+status: 301
+
+informacaoStatus: Movido Permanentemente
+
+___________________________
+
+metodo: DELETE
+
+status: 200
+
+informacaoStatus: Requisição foi processada com sucesso.
+
+___________________________
+
+metodo: GET
+
+status: 504
+
+informacaoStatus: demora no tempo de resposta do servidor acessado
+
+___________________________

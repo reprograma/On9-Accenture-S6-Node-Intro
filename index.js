@@ -1,0 +1,1 @@
+console.log("primeiro script rodando");

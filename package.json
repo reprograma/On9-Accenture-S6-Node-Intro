@@ -1,0 +1,19 @@
+{
+    "name": "projeto-nodejs",
+    "version": "1.0.0",
+    "description": "repositorio para o primeiro projeto em nodejs",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/clacla-s8/On9-Accenture-S6-Node-Intro.git"
+    },
+    "author": "clarice",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/clacla-s8/On9-Accenture-S6-Node-Intro/issues"
+    },
+    "homepage": "https://github.com/clacla-s8/On9-Accenture-S6-Node-Intro#readme"
+}
