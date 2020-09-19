@@ -1,0 +1,50 @@
+[
+    {   "id": 1,
+        "IBSN": 8575595032,
+        "nomeDoLivro": "Mulheres, raça e classe",
+        "editora": "Boitempo",
+        "autora": "Angela Davis",
+        "anoDaPublicacao": 2016,
+        "descricao": "Mulheres, raça e classe, de Angela Davis, é uma obra fundamental para se entender as nuances das opressões."
+    },
+
+    {
+        "id": 2,
+        "IBSN": 9788575596128,
+        "nomeDoLivro": "A liberdade é uma luta constante",
+        "editora": "Boitempo",
+        "autora": "Angela Davis",
+        "anoDaPublicacao": 2018,
+        "descricao": "Os textos trazem reflexões sobre como as lutas históricas do movimento negro e do feminismo negro nos Estados Unidos e a luta contra o apartheid na África do Sul se relacionam com os movimentos atuais pelo abolicionismo prisional e com a luta anticolonial na Palestina."
+    },
+    
+    {
+        "id": 3,
+        "IBSN": 8535932879,
+        "nomeDoLivro": "Pequeno manual antirracista ",
+        "editora": "Companhia das Letras",
+        "autora": "Djamina Ribeiro",
+        "anoDaPublicacao": 2019,
+        "descricao": "Neste pequeno manual, a filósofa e ativista Djamila Ribeiro trata de temas como atualidade do racismo, negritude, branquitude, violência racial, cultura, desejos e afetos."
+    },
+
+    {
+        "id": 4,
+        "IBSN": 8598349739,
+        "nomeDoLivro": "Encarceramento em Massa",
+        "editora": "Pólen Livros",
+        "autora": "Juliana Borges",
+        "anoDaPublicacao": 2019,
+        "descricao": "Por que fazer um livro sobre encarceramento, sistema de Justiça Criminal punitivo e feminismo negro?"
+    },
+
+    {
+        "id": 5,
+        "IBSN": 8534705259,
+        "nomeDoLivro": "Olhos D'Agua",
+        "editora": "Pallas",
+        "autora": "Conceição Evaristo",
+        "anoDaPublicacao": 2014,
+        "descricao": "m Olhos d’água Conceição Evaristo ajusta o foco de seu interesse na população afro-brasileira abordando, sem meias palavras, a pobreza e a violência urbana que a acometem."
+    }
+] 
