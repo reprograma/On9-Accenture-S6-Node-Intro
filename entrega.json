@@ -1,0 +1,29 @@
+[
+{
+    "metodo": "GET",
+    "status": 404,
+    "informacaoStatus": "o cliente não pôde comunicar com o servidor"
+
+},
+{
+    "metodo": "DELETE",
+    "status": 200,
+    "informacaoStatus": "exclusão bem-sucedida"
+},
+{
+    "metodo": "POST",
+    "status": 201,
+    "informacaoStatus": "criação bem-sucedida"
+},
+{
+    "metodo": "GET",
+    "status": 200,
+    "informacaoStatus": "requisição bem sucedida"
+},
+{
+    "metodo": "PUT",
+    "status": 200,
+    "informacaoStatus": "atualização bem-sucedida"
+}
+]
+
