@@ -1,0 +1,66 @@
+[
+    {
+        "id": "D1Q8G9",
+        "nome": "Marcela",
+        "cpfNota": "894.647.347-47",
+        "valorTotaldaCompra": 666.66,
+        "quantidadeDeItens": 1,
+        "informacoesDaCompra": {
+            "prdouto": "Air Jordan 1",
+            "valor": 666.66,
+            "marca": "Nike"
+        }
+    },
+
+    {
+        "id": "R8Q34A",
+        "nome": "Andŕe",
+        "cpfNota": "134.794.468-67",
+        "valorTotaldaCompra": 1.347,
+        "quantidadeDeItens": 1,
+        "informacoesDaCompra": {
+            "prdouto": "YEEZY BOOST 380",
+            "valor": 1.347,
+            "marca": "Adidas"
+        }
+    },
+
+    {
+        "id": "PA697V",
+        "nome": "Pedro",
+        "cpfNota": "784.984.674-34",
+        "valorTotaldaCompra": 549.90,
+        "quantidadeDeItens": 1,
+        "informacoesDaCompra": {
+            "prdouto": "RS-2K UNITY",
+            "valor": 549.90,
+            "marca": "Puma"
+        }
+    },
+
+    {
+        "id": "F67ALO",
+        "nome": "Fabiana",
+        "cpfNota": "347.734.964-89",
+        "valorTotaldaCompra": 599.99,
+        "quantidadeDeItens": 1,
+        "informacoesDaCompra": {
+            "prdouto": "SB X AIR JORDAN I LOW",
+            "valor": 599.99,
+            "marca": "Nike"
+        }
+    },
+
+    {
+        "id": "UQ95AP",
+        "nome": "Brenda",
+        "cpfNota": "379.469.739-39",
+        "valorTotaldaCompra": 499.99,
+        "quantidadeDeItens": 1,
+        "informacoesDaCompra": {
+            "prdouto": "LXCON",
+            "valor": 499.99,
+            "marca": "Adidas"
+        }
+    }
+]

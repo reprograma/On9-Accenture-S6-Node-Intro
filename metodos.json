@@ -1,0 +1,31 @@
+[
+    {
+        "metodo": "POST",
+        "status": 201,
+        "informacao": "Created: A requisição foi bem sucedida e um novo recurso foi criado como resultado."
+    },
+    
+    {
+        "metodo": "GET",
+        "status": 303,
+        "informacao": "See Other: O servidor manda essa resposta para instruir ao cliente buscar o recurso requisitado em outra URI."
+    },
+
+    {
+        "metodo": "PUT",
+        "status": 409,
+        "informacao": "Conflict: indica que a solicitação atual conflitou com o recurso que está no servidor."
+    },
+
+    {
+        "metodo": "PUT",
+        "status": 204,
+        "informacao": "No content: indica que a solicitação foi bem sucedida e o cliente não precisa sair da página atual."
+    },
+
+    {
+        "metodo": "DELETE",
+        "status": 202,
+        "informacao": "Accepted: indica que a solicitação foi aceita para processamento, mas o processamento não foi concluído; na verdade, o processamento pode não ter começado ainda."
+    }
+] 
