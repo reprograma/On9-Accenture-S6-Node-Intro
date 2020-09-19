@@ -1,0 +1,16 @@
+{
+  "name": "projeto-nodejs",
+  "version": "1.0.0",
+  "description": "repositorio destinado para o primeiro projeto em nodejs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[B\u001b[B"
+  },
+  "author": "luanaCristina",
+  "license": "ISC"
+}
