@@ -1,27 +1,27 @@
 [
   {
     "metodo": "get",
-    "status": "400",
-    "informacaoStatus": "o servidor não entendeu a requisição pois está com uma sintaxe inválida"
+    "status": "404",
+    "informacaoStatus": "not found - o servidor não pode encontrar o recurso solicitado"
   },
   {
     "metodo": "post",
     "status": "201",
-    "informacaoStatus": "a requisição foi bem sucedida e um novo recurso foi criado como resultado"
+    "informacaoStatus": "created - a requisição foi bem sucedida e um novo recurso foi criado como resultado"
   },
   {
     "metodo": "put",
     "status": "200",
-    "informacaoStatus": "a requisição foi bem sucedida"
+    "informacaoStatus": "ok - a requisição foi bem sucedida"
   },
   {
     "metodo": "delete",
     "status": "202",
-    "informacaoStatus": "a requisição foi recebida mas nenhuma ação foi tomada sobre ela"
+    "informacaoStatus": "accepted - a requisição foi recebida mas nenhuma ação foi tomada sobre ela"
   },
   {
     "metodo": "patch",
     "status": "204",
-    "informacaoStatus": "não há conteúdo para enviar para esta solicitação, mas os cabeçalhos podem ser úteis"
+    "informacaoStatus": "no content - não há conteúdo para enviar para esta solicitação, mas os cabeçalhos podem ser úteis"
   }
 ]
