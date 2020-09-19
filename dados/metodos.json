@@ -1,0 +1,27 @@
+[
+    {
+        "metodo": "GET",
+        "status": 404,
+        "informacaoStatus": "Not Found. Pagina não encontrada"
+    },
+    {
+        "metodo": "POST",
+        "status": 204,
+        "informacaoStatus": "No Content. Solicitação foi bem sucedida. "
+    },
+    {
+        "metodo": "PUT",
+        "status": 100,
+        "informacaoStatus": "Continue. Pode continuar a requisição ou ignorar"
+    },
+    {
+        "metodo": "DELETE",
+        "status": 205,
+        "informacaoStatus": "Reset Content. Redefine um estado da tela ou atualizar a interface do usuário"
+    },
+    {
+        "metodo": "HEAD",
+        "status": 202,
+        "informacaoStatus": "Accepted. É retornado e o cliente deve pesquisar o recurso até que a representação final esteja disponível."
+    }
+] 

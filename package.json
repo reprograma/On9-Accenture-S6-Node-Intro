@@ -1,0 +1,21 @@
+{
+  "name": "projeto-nodejs",
+  "version": "1.0.0",
+  "description": "repositorio para o primeiro projeto em nodejs",
+  "main": "server.js",
+
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aline-carvalho/On9-Accenture-S6-Node-Intro.git"
+  },
+  "author": "aline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aline-carvalho/On9-Accenture-S6-Node-Intro/issues"
+  },
+  "homepage": "https://github.com/aline-carvalho/On9-Accenture-S6-Node-Intro#readme"
+}
