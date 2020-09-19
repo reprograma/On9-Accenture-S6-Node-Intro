@@ -1,0 +1,47 @@
+[
+    {
+    "id": 1, 
+    "ibsn": "9788501086150", 
+    "nomeLivro": "Diários do Vampiro: O Despertar", 
+    "nomeAutora": "Lisa Jane Smith",
+    "anoPublicacao": 2009, 
+    "descricao": "-"
+  },
+
+  {
+      "id": 2,
+      "ibsn": "9788546901401",
+      "nomeLivro": "Ensinando A Transgredir - A Educação Como Pratica da Liberdade",
+      "nomeAutora": "Bel Hooks",
+      "anoPublicacao": "2017",
+      "descricao": "Em 'Ensinando a transgredir', Bell Hooks – escritora, professora e intelectual negra insurgente – escreve sobre um novo tipo de educação, a educação como prática da liberdade. Para Hooks, ensinar os alunos a “transgredir” as fronteiras raciais, sexuais e de classe a fim de alcançar o dom da liberdade é o objetivo mais importante do professor."
+  }, 
+
+    {
+        "id": 3,
+        "ibsn": "9788535924732",
+        "nomeLivro": "Americanah",
+        "nomeAutora": "Chimamanda Ngozi Adichie",
+        "anoPublicacao": "2014",
+        "descricao": "-"
+    }, 
+
+    {
+        "id": 4,
+        "ibsn": "9788532529787",
+        "nomeLivro": "Mulheres que correm com os lobos",
+        "nomeAutora": "Clarissa Pinkola Estes",
+        "anoPublicacao": "2018",
+        "descricao": "-"
+    }, 
+
+    {
+        "id": 5,
+        "ibsn": "9788582467145",
+        "nomeLivro": "Eu Sei Por Que O Pássaro Canta Na Gaiola",
+        "nomeAutora": "Maya Angelou",
+        "anoPublicacao": "2018",
+        "descricao": "-"
+    }
+  
+]
