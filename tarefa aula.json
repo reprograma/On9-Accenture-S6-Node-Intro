@@ -1,0 +1,34 @@
+
+[
+  {
+    "id": 1,  
+    "isbn": 9788535932874,
+    "nomeLivro": "Pequeno manual antirracista",
+    "editora": "Companhia das Letras",
+    "autora": "Djamila Ribeiro",
+    "anoPublicacao": 2019,
+    "descricao": "Este pequeno manual,trata de temas como atualidade do racismo,negritude,branquitude, violência racial,cultura,desejos e afetos"
+
+  },
+  {
+    "id": 2,
+    "isbn": 9786555640304,
+    "nomeLivro": "Simplesmente Bela",
+    "editora": "Sextante",
+    "autora": "Bela Gil",
+    "anoPublicacao": 2020,
+    "descricao": "Neste livro, Bela Gil apresenta 40 receitas fáceis e rápidas para várias esferas da vida: alimentação e nutrição, autocuidado, saúde e higiene. Divididas em quatro seções – Nutrir, Cuidar, Curar e Limpar "
+ },
+
+ {
+
+    "id": 3,
+    "isbn": 9788532508171,
+    "nomeLivro": "Felicidade Clandestina",
+    "editora": "Rocco",
+    "autora": "Clarice Linspector",
+    "anoPublicacao": 1998,
+    "descricao": "Nesta coletânea de vinte e cinco textos, reúnem-se alguns contos e crônicas publicados nos livros A legião estrangeira"
+ }
+
+]

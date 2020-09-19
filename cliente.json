@@ -1,0 +1,14 @@
+{
+"id": 3,
+"nome": "Mariana",
+"cpfNota": "016681135-11",
+"colaboradora": false,
+"valorTotalCompra": 300.05,
+"quantidadeItens": 1,
+"informacoesCompra": {
+    "tenis": "TENIS_X",
+    "valor": 300.05,
+    "nome": "Conforto"
+}
+
+}
