@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1, 
+      "ibsn": "AE10391", 
+      "nomeLivro": "Sim à Igualdade Racial: Raça e Mercado de Trabalho", 
+      "nomeAutora": "Luana Génot",
+      "anoPublicacao": 2019, 
+      "descricao": "Sim à Igualdade Racial: Raça e Mercado de Trabalho, aborda a desigualdade racial no mercado de trabalho no Brasil. Luana Génot, diretora-executiva do Instituto Identidades do Brasil, traz 16 depoimentos de pessoas, entre CEO de empresas e trainees, atores e jornalistas, que abordam sobre a desigualdade no ambiente corporativo."
+    },
+    {
+      "id": 2, 
+      "ibsn": "AE10204K", 
+      "nomeLivro": "A Liberdade é uma Luta Constante", 
+      "nomeAutora": "Angela Davis",
+      "anoPublicacao": 2020, 
+      "descricao": "O livro da ativista Angela Davis é reúne seus artigos, discursos e entrevistas realizados em diferentes países entre 2013 e 2015. Os textos nos fazem refletir sobre as lutas históricas do movimento negro e do feminismo negro nos Estados Unidos e a luta contra o apartheid na África do Sul, além de se relacionarem com movimentos atuais."
+    },
+    {
+      "id": 3, 
+      "ibsn": "AE10ASC", 
+      "nomeLivro": "Olhares Negros - Raça e Representação", 
+      "nomeAutora": "Bell Hooks",
+      "anoPublicacao": 2013, 
+      "descricao": "Em 'Olhares negros', Bell hooks fala a respeito de como a experiência da negritude e das pessoas negras surge na literauta, na música, na televisão e no cinema. O livro tem o intuito de criar uma intervenção na forma como falamos sobre raça e representação."
+    },
+    {
+      "id": 4, 
+      "ibsn": "AE10MMX-10", 
+      "nomeLivro": "Minha História ", 
+      "nomeAutora": "Michelle Obama",
+      "anoPublicacao": 2018, 
+      "descricao": "Minha História' conta a vida de Michelle Obama, primeira-dama dos Estados Unidos — a primeira afro-americana a ocupar essa posição. Escrito pela própria, o livro retrata trajetória de Michelle desde sua infância na região de South Side, em Chicago, até a conquista do cargo de primeira-dama. Durante a narrativa, é retratado as dificuldades, o racismo que Michelle viveu e a história inspiradora que desafiou constantemente as expectativas. "
+    }
+  
+  ]

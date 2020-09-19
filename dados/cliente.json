@@ -1,0 +1,15 @@
+
+{
+    "id": "DAJSOIASOAJ113", 
+    "nomeCliente": "Andreia",
+    "cpfNota": "91831902-14981",
+    "colaboradora": false,
+    "desconto": 2,
+    "valorTotalCompra": 300.05,
+    "quantidadeItens": 1,
+    "informacoesCompra":{
+      "nome": "TENIS-X", 
+      "valor": 300.05,
+      "modeloTenis": "Conforto"
+    }
+}
