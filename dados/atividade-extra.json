@@ -1,0 +1,27 @@
+[
+  {
+    "metodo": "get",
+    "status": "404",
+    "informacaoStatus": "not found - o servidor não pode encontrar o recurso solicitado"
+  },
+  {
+    "metodo": "post",
+    "status": "201",
+    "informacaoStatus": "created - a requisição foi bem sucedida e um novo recurso foi criado como resultado"
+  },
+  {
+    "metodo": "put",
+    "status": "200",
+    "informacaoStatus": "ok - a requisição foi bem sucedida"
+  },
+  {
+    "metodo": "delete",
+    "status": "202",
+    "informacaoStatus": "accepted - a requisição foi recebida mas nenhuma ação foi tomada sobre ela"
+  },
+  {
+    "metodo": "patch",
+    "status": "204",
+    "informacaoStatus": "no content - não há conteúdo para enviar para esta solicitação, mas os cabeçalhos podem ser úteis"
+  }
+]
