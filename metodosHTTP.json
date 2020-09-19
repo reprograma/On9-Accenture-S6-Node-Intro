@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "metodo": "GET",
+      "status": 200,
+      "informacaoStatus": "Esta requisição foi bem sucedida."
+    },
+    {
+        "id": 2,
+        "metodo": "POST",
+        "status": 200,
+        "informacaoStatus": "Esta requisição foi bem sucedida."
+      },
+      {
+        "id": 3,
+        "metodo": "GET",
+        "status": 302,
+        "informacaoStatus": "Esse código de resposta significa que a URI do recurso requerido foi mudada temporariamente."
+      },
+      {
+        "id": 4,
+        "metodo": "POST",
+        "status": 204,
+        "informacaoStatus": "Não há conteúdo para enviar para esta solicitação, mas os cabeçalhos podem ser úteis."
+      },
+      {
+        "id": 5,
+        "metodo": "OPTIONS",
+        "status": 200,
+        "informacaoStatus": "Esta requisição foi bem sucedida."
+      }
+    ]
