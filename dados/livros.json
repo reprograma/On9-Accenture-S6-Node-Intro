@@ -1,0 +1,46 @@
+[{
+    "id": 1,
+    "ISBN": 8530972163,
+    "Nome do livro": "A Condição Humana",
+    "Editora": "Forense Universitária",
+    "Autora": "Hannah Arendt",
+    "Ano de Publicação": 2016,
+    "Descrição":  "A versão definitiva de A condição humana, mais que uma resposta à pergunta sobre como e por que foi possível o totalitarismo, e mais que um exame da relação entre totalitarismo e tradição, converteu-se em uma fenomenologia das atividades humanas fundamentais no âmbito da vida ativa – o trabalho, a obra ou fabricação e a ação. Arendt principia sua investigação com o exame da relação entre a condição humana e a vita activa, definida em contraposição à vita contemplativa, mas visa antes de tudo a transcender a caracterização tradicional das atividades e da relação entre elas com vistas a uma indagação sobre o significado das próprias atividades e das transformações em seu caráter na era moderna."
+},
+ {  
+    "id": 2,
+    "ISBN": 8535932879,
+    "Nome do livro": "Pequeno manual antirracista ",
+    "Editora": "Companhia das Letras",
+    "Autora": "Djamila Ribeiro",
+    "Ano de Publicação": 2019,
+    "Descrição": "Onze lições breves para entender as origens do racismo e como combatê-lo."
+ },     
+ {
+    "id": 3,
+    "ISBN": 8503010313,
+    "Nome do livro": "A cor púrpura",
+    "Editora":"José Olympio",
+    "Autora": "Alice Walker",
+    "Ano de Publicação": 2009,
+    "Descrição": "A cor púrpura retrata a dura vida de Celie, uma mulher negra no sul dos Estados Unidos da primeira metade do século XX. Pobre e praticamente analfabeta, Celie foi abusada, física e psicologicamente, desde a infância pelo padrasto e depois pelo marido.Um universo delicado, no entanto, é construído a partir das cartas que Celie escreve e das experiências de amizade e amor, sobretudo com a inesquecível Shug Avery. Apesar da dramaticidade de seu enredo, A cor púrpura se mostra extremamente atual e nos faz refletir sobre as relações de amor, ódio e poder, em uma sociedade ainda marcada pelas desigualdades de gêneros, etnias e classes sociais."
+},
+{
+    "id": 4,
+    "ISBN": 8501044458,
+    "Nome do livro": "O diário de Anne Frank",
+    "Editora":"Record",
+    "Autora": "Anne Frank",
+    "Ano de Publicação": 1947,
+    "Descrição": "O diário de Anne Frank, o depoimento da pequena Anne, morta pelos nazistas após passar anos escondida no sótão de uma casa em Amsterdã, ainda hoje emociona leitores no mundo inteiro. Suas anotações narram os sentimentos, os medos e as pequenas alegrias de uma menina judia que, como sua família, lutou em vão para sobreviver ao Holocausto.Lançado em 1947, O diário de Anne Frank tornou-se um dos livros mais lidos do mundo. O relato tocante e impressionante das atrocidades e dos horrores cometidos contra os judeus faz deste livro um precioso documento e uma das obras mais importantes do século XX.Uma poderosa lembrança dos horrores de uma guerra, um testemunho eloquente do espírito humano. Assim podemos descrever os relatos feitos por Anne em seu diário. Isolados do mundo exterior, os Frank enfrentaram a fome, o tédio e a terrível realidade do confinamento, além da ameaça constante de serem descobertos. Nas páginas de seu diário, Anne Frank registra as impressões sobre esse longo período no esconderijo. Alternando momentos de medo e alegria, as anotações se mostram um fascinante relato sobre a coragem e a fraqueza humanas e, sobretudo, um vigoroso autorretrato de uma menina sensível e determinada, cuja vida foi tragicamente interrompida."
+},
+{
+    "id": 5,
+    "ISBN": 8544001823,
+    "Nome do livro": "Orgulho e preconceito",
+    "Editora": "Martin Claret",
+    "Autora": "Jane Austen ",
+    "Ano de Publicação": 2018,
+    "Descrição": "Orgulho e preconceito é o livro mais famoso de Jane Austen e possui uma série de personagens inesquecíveis e um enredo memorável. Austen nos apresenta Elizabeth Bennet como heroína irresistível e seu pretendente aristocrático, o sr. Darcy. Nesse livro, aspectos diferentes são abordados: orgulho encontra preconceito, ascendência social confronta desprezo social, equívocos e julgamentos antecipados conduzem alguns personagens ao sofrimento e ao escândalo. O livro pode ser considerado a obra-prima da escritora, que equilibra comédia com seriedade, observação meticulosa das atitudes humanas e sua ironia refinada. A nova coleção possui capa dura e estilo inspirado nos bullet journals."
+}
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "metodo": "GET",
+        "status": 404,
+        "informacaoStatus": "Not Found. Pagina não encontrada."
+    },
+    {
+        "metodo": "POST",
+        "status": 201,
+        "informacaoStatus": "Created. Requisição bem sucedida e um novo recurso foi criado."
+    },
+    {
+        "metodo": "PUT",
+        "status": 409,
+        "informacaoStatus": "Conflict. Resposta de erro do cliente."
+    },
+    {
+        "metodo": "DELETE",
+        "status": 200,
+        "informacaoStatus": "OK. Requisição foi bem sucedida."
+    },
+    {
+        "metodo": "DELET",
+        "status": 204,
+        "informacaoStatus": "No Content. A requisição foi realizada e não precisa de mais nenhuma ação"
+    }
+] 

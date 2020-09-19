@@ -1,0 +1,19 @@
+{
+  "name": "on9-accenture-s6-node-intro",
+  "version": "1.0.0",
+  "description": "repositorio para o primeiro projeto em nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaispisani/On9-Accenture-S6-Node-Intro.git"
+  },
+  "author": "thais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaispisani/On9-Accenture-S6-Node-Intro/issues"
+  },
+  "homepage": "https://github.com/thaispisani/On9-Accenture-S6-Node-Intro#readme"
+}
