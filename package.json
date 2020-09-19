@@ -1,0 +1,19 @@
+{
+  "name": "projeto-nodejs",
+  "version": "1.0.0",
+  "description": "repositorio destinado para o primeiro projeto em nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelaromao/On9-Accenture-S6-Node-Intro.git"
+  },
+  "author": "Raphaela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelaromao/On9-Accenture-S6-Node-Intro/issues"
+  },
+  "homepage": "https://github.com/raphaelaromao/On9-Accenture-S6-Node-Intro#readme"
+}

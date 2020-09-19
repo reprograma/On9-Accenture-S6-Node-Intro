@@ -1,0 +1,31 @@
+[
+    {
+        "metodo": "GET",
+        "status": 100,
+        "informacaoStatus": "Respostas de informação"
+    },
+
+    {
+        "metodo": "POST",
+        "status": 201,
+        "informacaoStatus": "Bem-sucedido: o servidor concluiu a solicitação com sucesso" 
+    },
+
+    {
+        "metodo": "GET",
+        "status": 303,
+        "informacaoStatus":"Redirecionamento"
+    },
+
+    {
+        "metodo": "GET",
+        "status": 405,
+        "informacaoStatus": "Erro do dliente"
+    },
+
+    {
+        "metodo": "HEAD",
+        "status": 501,
+        "informacaoStatus": "Erro do servidor"
+    }
+]

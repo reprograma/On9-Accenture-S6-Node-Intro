@@ -1,0 +1,11 @@
+{
+    "nome": "Raphaela",
+    "cpfNota": 564646469764,
+    "valorTotalCompra": 300.05,
+    "quantidadeItens": 2, 
+    "informacoesCompra": 
+        {"tenis": "tenis-x",
+        "nome": 300.05,
+        "modeloTenis": "conforto" 
+        }    
+}

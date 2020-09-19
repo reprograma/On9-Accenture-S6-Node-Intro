@@ -1,0 +1,46 @@
+[
+    {
+    "id": 9780307264602,
+    "nomeDoLivro": "O Conto da Aia",
+    "editora": "Rocco",
+    "autora": "Margaret Atwood",
+    "anoDaPublicacao": 1985,
+    "descricao": "livro de ficcção especulativa"
+    },
+
+    {
+    "id": 9781524763138,
+    "nomeDoLivro": "Minha história",
+    "editora": "Objetiva",
+    "autora": "Michelle Obama",
+    "anoDaPublicacao": 2018,
+    "descricao": "Biografia"
+    },
+
+    {
+    "id": 9788543107493,
+    "nomeDoLivro": "O momento de voar: Como o empoderamento feminino muda o mundo",
+    "editora": "Sextante",
+    "autora": "Melinda Gates",
+    "anoDaPublicacao": 2019,
+    "descricao": "Biografia"
+    },
+
+    {
+    "id": 8535932879,
+    "nomeDoLivro": "Pequeno manual antirracista",
+    "editora": "Companhia das letras",
+    "autora": "Djamilla Ribeiro",
+    "anoDaPublicacao": 2019,
+    "descricao": "Ciencias sociais"
+    },
+
+    {
+        "id":  8543107202,
+        "nomeDoLivro": "A morte é um dia que vale a pena viver",
+        "editora": "Sextante",
+        "autora": "Ana Claudia Quintana Arantes",
+        "anoDaPublicacao": 2019,
+        "descricao": "Morte luto e saude"
+        }
+]
