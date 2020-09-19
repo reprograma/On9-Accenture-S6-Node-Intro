@@ -1,0 +1,37 @@
+[
+{
+    "metodo": "POST",
+    "status": "401",
+    "informacaoStatus": "Unauthorized"
+},
+
+{
+    "metodo": "GET",
+    "status": "500",
+    "informacaoStatus":  "Internal Server error"
+},
+
+{
+    "metodo": "PUT",
+    "status": "444",
+    "informacaoStatus": "No response"
+},
+
+{
+    "metodo": "DELETE",
+    "status": "100",
+    "informacaoStatus": "Continue"
+},
+
+{
+    "metodo": "GET",
+    "status": "200",
+    "informacaoStatus": "Ok"
+},
+
+{
+    "metodo": "POST",
+    "status": "400",
+    "informacaoStatus": "Bad Request"
+}
+]
