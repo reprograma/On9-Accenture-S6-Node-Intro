@@ -1,0 +1,33 @@
+[
+    {"id": "00001",
+    "ISBN": 9788581227788,
+    "nome": "O Conto da Aia",
+    "editora":"McClelland & Stewart",
+    "autora": "Margaret Atwood",
+    "anoPub": 1985,
+    "descricao": "romance"},
+    
+    {"id": "00002",
+        "nome": "A Amiga Genial",
+        "ISBN": 9781410491169,
+        "editora":"Biblioteca Azul",
+        "autora": "Elena Ferrante",
+        "anoPub": 2011,
+        "descricao": ["romance", "ficção"]},
+
+    {"id": "00003",
+        "ISBN": 9788526704657,
+        "nome": "As três Marias",
+        "editora":"Editora José Olympio",
+        "autora": "Rachel de Queiroz",
+        "anoPub": 1934,
+        "descricao": ["romance"]},
+    {"id": "00004",
+        "ISBN": 9788526019591,
+        "nome": "Romanceiro da Inconfidência",
+        "editora":"global",
+        "autora": "Cecília Meirelles",
+        "anoPub": 1953,
+        "descricao": ["romance", "poemas"]}
+
+]
