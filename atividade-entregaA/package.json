@@ -1,0 +1,16 @@
+{
+    "name": "exercicio-entrega-nodejs",
+    "version": "1.0.0",
+    "description": "Atividade solicitada no README para entregar sábado.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+  
+    "repository": {
+      "type": "git",
+      "url": "\u001b[A\u001b[B\u001b[B"
+    },
+    "author": "luanaCristina",
+    "license": "ISC"
+  }
