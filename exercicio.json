@@ -1,0 +1,35 @@
+
+[
+    {
+    "metodo": "POST",
+    "status": 201,
+    "informacaoStatus": "Created." 
+    },
+
+    {
+    "metodo": "GET",
+    "status": 204,
+    "informacaoStatus": "No content." 
+    },
+
+    {
+    "metodo": "PUT",
+    "status": 415,
+    "informacaoStatus": "Unsupported media type." 
+    },
+
+    {
+    "metodo": "DELETE",
+    "status": 405,
+    "informacaoStatus": "Method not allowed."
+    },
+
+    {
+    "metodo": "GET",
+    "status": 423,
+    "informacaoStatus": "Locked." 
+    }
+    
+
+]
+
