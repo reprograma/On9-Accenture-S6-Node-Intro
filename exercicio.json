@@ -1,0 +1,34 @@
+[
+    {
+        "metodo": "DELETE",
+        "status": 101,
+        "informacaoStatus": "Switching Protocols. Indica para qual protocolo o servidor está sendo trocado."
+
+    },
+    {
+        "metodo": "GET",
+        "status": 401,
+        "informacaoStatus": "Unauthorized. Acesso não autorizado, usuário sem credenciais válidas."
+
+    },
+    {
+        "metodo": "POST",
+        "status": 207,
+        "informacaoStatus": "Multi-Status. O corpo da mensagem a seguir é uma mensagem XML e pode conter vários códigos de resposta separados."
+
+    },
+    {
+        "metodo": "PUT",
+        "status": 300,
+        "informacaoStatus": "Multiple Choices, Moatra várias opções que o cliente pode seguir."
+
+    },
+    {
+        "metodo": "HEAD",
+        "status": 304,
+        "informacaoStatus": "Not Modified, Indica que o recurso não foi modificado desde a última solicitação."
+
+
+    }
+    
+]
