@@ -1,0 +1,51 @@
+[
+    {
+        "id": "000",
+        "isbn": "9788503009492",
+        "nomeDeLivro": "O Sol é Para Todos" ,
+        "editora": "José Olympio",
+        "autora": "Harper Lee",
+        "anoPublicacao": 2006,
+        "descricao": "Romance"
+    },
+
+    {
+        "id": "0001",
+        "isbn": "9788572326919",
+        "nomeDeLivro": "Orgulho e Preconceito" ,
+        "editora": "Martin Claret",
+        "autora": "Jane Austen",
+        "anoPublicacao": 2013,
+        "descricao": "Romance"
+    },
+
+    {
+        "id": "002",
+        "isbn": "9788542211856",
+        "nomeDeLivro": "Outros Jeitos de Usar a Boca" ,
+        "editora": "Planeta do Brasil",
+        "autora": "Rupi Kaur",
+        "anoPublicacao": 2017,
+        "descricao": "Poesia"
+    },
+
+    {
+        "id": "003",
+        "isbn": "9788535924732",
+        "nomeDeLivro": "Americanah" ,
+        "editora": "Companhia Das Letras",
+        "autora": "Chimamanda Ngozi Adichie",
+        "anoPublicacao": 2014,
+        "descricao": "Romance"
+    },
+
+    {
+        "id": "004",
+        "isbn": "9788535924732",
+        "nomeDeLivro": "O Morro Dos Ventos Uivantes" ,
+        "editora": "Principis",
+        "autora": "Emily Brontë",
+        "anoPublicacao": 2019,
+        "descricao": "Romance"
+    }
+]

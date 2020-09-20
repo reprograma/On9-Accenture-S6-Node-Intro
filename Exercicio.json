@@ -1,0 +1,44 @@
+[
+    {
+        "metodo": "GET",
+
+        "status": "501",
+
+        "informacaoStatus": "Not Implemented // Indica que o servidor não suporta a funcionalidade requerida para completar a requisição. " 
+    },
+
+    {
+        "metodo": "HEAD",
+    
+        "status": "302",
+    
+        "informacaoStatus": "Found // Indica que o recurso foi temporariamente movido para a URL informada pelo cabeçalho." 
+    },
+
+    {
+        "metodo": "POST",
+
+        "status": "201",
+
+        "informacaoStatus": "Created // A requisição foi bem sucedida e um novo recurso foi criado como resultado." 
+    },
+
+    {
+        "metodo": "TRACE",
+
+        "status": "200",
+
+        "informacaoStatus": "OK // É a resposta de status de sucesso que indica que a requisição foi bem sucedida, o corpo da mensagem contém a mensagem da requisição tal qual foi recebida pelo servidor." 
+    },
+
+    {
+        "metodo": "PUT",
+
+        "status": "204",
+
+        "informacaoStatus": " No Content // indica que a solicitação foi bem sucedida e o cliente não precisa sair da página atual." 
+    }
+
+
+]
+
