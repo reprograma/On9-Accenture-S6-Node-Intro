@@ -1,7 +1,12 @@
 # On9-Accenture-S6-Node-Intro
 
 # Atividade 
-<p> Assista ao curso Introdução ao Node.js do Erick Wendell, módulos introdução e 1, em seguida explique sobre:<b> Promisses e Callbacks <b> </p>
+<p> Explique sobre:<b> Promisses e Callbacks <b> </p>
+
+<br>
+<p>
+<b> Contexto: <b>O JS foi feito para não bloquear o usuário e trabalha stack single-thread(essa parte só executa uma função por vez). Imagina que se você tem que fazer uma coisa para depois deixar o usuário fazer outra operação. Por isso o JS é assíncrono e permite que vc passe funções como parâmetro para outras funções e essa função vai ser executada no futuro em outro momento, quando aquela operação termina. 
+</p>
 
 ## Promisses
 - Basicamente é uma “promessa” de que no futuro eu vou resolver ou rejeitar algum valor
@@ -15,4 +20,11 @@
 
 
 ## Callbacks
+- Função que chama função 
+- Geralmente funções assíncronas recebem callback
 - Só pode passar o callback para executar 1 única vez
+- Pensando que o JS é assíncrono, não bloqueia o usuário 
+- última função a ser executada e quando termina de ler o arquivo chama ela de volta
+- Um callback pode ser transformado em promise
+- Para ajudar a single-thread do JS, é uma maneira de rodar código em background enquanto outro código esta sendo executado na stack
+- Evitar: Callback hell (uma função dentro de uma função e assim por diante...), código fica extremamente ilegível 
