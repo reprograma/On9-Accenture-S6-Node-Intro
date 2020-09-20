@@ -1,0 +1,64 @@
+api.livrosMulheres/
+
+[
+    {
+  "id"= 1,
+  "nomeLivro": "Crepúsculo",
+  "isbn": "AA1",
+  "Editora": "abc",
+  "Autora": "Stephenie Meyer",
+  "anoPublicacao": 2005 {
+      "descricao": "livro de romance", 
+   }
+   "colaboradora": false
+  },
+
+  {
+    "id" = 2,
+    "nomeLivro": "Lua Nova",
+    "isbn": "BB2",
+    "Editora": "abc",
+    "Autora": "Stephenie Meyer",
+    "anoPublicacao": 2006 {
+        "descricao": "livro de romance", 
+     }
+     "colaboradora": false
+    },
+
+    {
+      "id" = 3,
+      "nomeLivro": "Eclipse",
+      "isbn": "BB3",
+      "Editora": "abc",
+      "Autora": "Stephenie Meyer",
+      "anoPublicacao": 2007 {
+          "descricao": "livro de romance", 
+       }
+       "colaboradora": false
+      },
+
+      {
+        "id" = 4,
+        "nomeLivro": "Amanhecer",
+        "isbn": "BB4",
+        "Editora": "abc",
+        "Autora": "Stephenie Meyer",
+        "anoPublicacao": 2008 {
+            "descricao": "livro de romance", 
+         }
+         "colaboradora": false
+        },
+
+        {
+          "id" = 5,
+          "nomeLivro": "Sol da meia-noite",
+          "isbn": "BB5",
+          "Editora": "abc",
+          "Autora": "Stephenie Meyer",
+          "anoPublicacao": 2020 {
+              "descricao": "livro de romance", 
+           }
+           "colaboradora": false
+          },
+
+  ]

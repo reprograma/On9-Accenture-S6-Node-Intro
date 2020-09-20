@@ -1,0 +1,16 @@
+api.clientes/
+
+[
+  {
+"nome": "Rebeca",
+"cpfNota": "11122233388",
+"valorTotalCompra": 300.05,
+"quantidadeItens": 2,
+"informacoesCompra": {
+    "nome": "TENIS-X",
+    "valor": 300.05,
+    "modeloTenis": "Conforto" 
+ },
+ "colaboradora": false
+}
+]
