@@ -1,0 +1,20 @@
+{
+  "name": "exercicio_semana_6",
+  "version": "1.0.0",
+  "description": "# Introdução ao HTTP",
+  "main": "Exercicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anareisier/On9-Accenture-S6-Node-Intro.git"
+  },
+  "keywords": [],
+  "author": "AnaReis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anareisier/On9-Accenture-S6-Node-Intro/issues"
+  },
+  "homepage": "https://github.com/anareisier/On9-Accenture-S6-Node-Intro#readme"
+}
