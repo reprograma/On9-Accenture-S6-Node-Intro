@@ -25,4 +25,4 @@
         "infoDoStatus": "Temporary Redirect - Indica que aquela requisição que fizemos está sendo redirecionada temporariamente pra outro link"
     }
 
-]  
+]
