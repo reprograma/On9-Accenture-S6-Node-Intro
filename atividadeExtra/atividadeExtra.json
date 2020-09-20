@@ -1,14 +1,14 @@
 [
     {
         "metodo": "GET",
-        "status": "",
-        "informacaoStatus": ""
+        "status": "201",
+        "informacaoStatus": "que é sucesso ao fazer um cadastro por exemplo"
     },
 
     {
-        "metodo": "POST",
-        "status": "",
-        "informacaoStatus": ""
+        "metodo": "GET",
+        "status": "200",
+        "informacaoStatus": "quer dizer que teve sucesso na requisição"
     },
 
     {
@@ -24,7 +24,7 @@
     },
 
     {
-        "metodo": "",
+        "metodo": "POST",
         "status":"",
         "informacaoStatus":""
     }
