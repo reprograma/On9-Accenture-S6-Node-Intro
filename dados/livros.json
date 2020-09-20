@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1, 
+    "ibsn": "6555320095", 
+    "nomeLivro": "Todas as cartas", 
+    "nomeAutora": "Clarice Lispector",
+    "anoPublicacao": 2020, 
+    "descricao": "Todas as cartas reúne correspondências escritas por Clarice Lispector ao longo de sua vida. A seleção de cartas, das quais cerca de meia centena é inédita para o público, configura um acervo fundamental para compreender a trajetória literária da escritora. Ponto alto de Todas as cartas, o conjunto de correspondências inéditas endereçadas aos amigos escritores tem entre os destinatários João Cabral de Melo Neto, Rubem Braga, Lêdo Ivo, Otto Lara Resende, Paulo Mendes Campos, Nélida Piñon, Lygia Fagundes Telles, Natércia Freire e Mário de Andrade. As correspondências foram organizadas por décadas – dos anos 1940 a 1970 – e contam com notas da biógrafa Teresa Montero, que contextualizam o material no tempo, no espaço e nas inúmeras citações a personalidades e referências culturais. Com grande material inédito, o volume resultou de longa pesquisa realizada pela jornalista Larissa Vaz, sob orientação de biógrafos e da família, para trazer uma visão integral da pessoa e da escritora. A publicação da correspondência de grandes escritores constitui-se em importante acontecimento literário, pois o autor mantém a inspiração, o lirismo e o humor ao escrever cartas, que chegam a ser tão ou mais fascinantes e criativas quanto seus próprios livros.Clarice viveu quase duas décadas no exterior e se correspondeu sempre para cultivar o afeto da família e dos amigos e para tratar da publicação dos seus livros. Apesar de afirmar que “não sabia escrever cartas”, suas cartas são tão interessantes quanto seus romances, contos e crônicas."
+  },
+  {
+    "id": 2, 
+    "ibsn": "853252978X", 
+    "nomeLivro": "Mulheres que correm com os lobos", 
+    "nomeAutora": " Clarissa Pinkola Estés",
+    "anoPublicacao": 2018, 
+    "descricao": "Os lobos foram pintados com um pincel negro nos contos de fada e até hoje assustam meninas indefesas. Mas nem sempre eles foram vistos como criaturas terríveis e violentas. Na Grécia antiga e em Roma, o animal era o consorte de Artemis, a caçadora, e carinhosamente amamentava os heróis. A analista junguiana Clarissa Pinkola Estés acredita que na nossa sociedade as mulheres vêm sendo tratadas de uma forma semelhante. Ao investigar o esmagamento da natureza instintiva feminina, Clarissa descobriu a chave da sensação de impotência da mulher moderna. Seu livro, Mulheres que correm com os lobos, ficou durante um ano na lista de mais vendidos nos Estados Unidos. Abordando 19 mitos, lendas e contos de fada, como a história do patinho feio e do Barba-Azul, Estés mostra como a natureza instintiva da mulher foi sendo domesticada ao longo dos tempos, num processo que punia todas aquelas que se rebelavam. Segundo a analista, a exemplo das florestas virgens e dos animais silvestres, os instintos foram devastados e os ciclos naturais femininos transformados à força em ritmos artificiais para agradar aos outros. Mas sua energia vital, segundo ela, pode ser restaurada por escavações psíquico-arqueológicas' nas ruínas do mundo subterrâneo. Até o ponto em que, emergindo das grossas camadas de condicionamento cultural, apareça a corajosa loba que vive em cada mulher. Clássico dos estudos sobre o sagrado feminino e o feminismo, o livro é o primeiro de uma série de longsellers da Rocco a ganhar edição com novo projeto gráfico e capa dura."
+  },
+  {
+    "id": 3, 
+    "ibsn": "978-8532520661", 
+    "nomeLivro": "O conto da aia", 
+    "nomeAutora": "Margaret Atwood",
+    "anoPublicacao": 2017, 
+    "descricao": "O romance distópico O conto da aia, de Margaret Atwood, se passa num futuro muito próximo e tem como cenário uma república onde não existem mais jornais, revistas, livros nem filmes. As universidades foram extintas. Também já não há advogados, porque ninguém tem direito a defesa. Os cidadãos considerados criminosos são fuzilados e pendurados mortos no Muro, em praça pública, para servir de exemplo enquanto seus corpos apodrecem à vista de todos. Para merecer esse destino, não é preciso fazer muita coisa – basta, por exemplo, cantar qualquer canção que contenha palavras proibidas pelo regime, como “liberdade”. Nesse Estado teocrático e totalitário, as mulheres são as vítimas preferenciais, anuladas por uma opressão sem precedentes. O nome dessa república é Gilead, mas já foi Estados Unidos da América. Uma das obras mais importantes da premiada escritora canadense, conhecida por seu ativismo político, ambiental e em prol das causas femininas, O conto da aia foi escrito em 1985 e inspirou a série homônima (The Handmaid’s Tale, no original), produzida pelo canal de streaming Hulu em 2017. As mulheres de Gilead não têm direitos. Elas são divididas em categorias, cada qual com uma função muito específica no Estado. A Offred coube a categoria de aia, o que significa pertencer ao governo e existir unicamente para procriar, depois que uma catástrofe nuclear tornou estéril um grande número de pessoas. E sem dúvida, ainda que vigiada dia e noite e ceifada em seus direitos mais básicos, o destino de uma aia ainda é melhor que o das não-mulheres, como são chamadas aquelas que não podem ter filhos, as homossexuais, viúvas e feministas, condenadas a trabalhos forçados nas colônias, lugares onde o nível de radiação é mortífero. Com esta história assustadora, Margaret Atwood leva o leitor a refletir sobre liberdade, direitos civis, poder, a fragilidade do mundo tal qual o conhecemos, o futuro e, principalmente, o presente. Vencedor do Arthur C. Clarke Award."
+  },
+  {
+    "id": 4, 
+    "ibsn": "8534705313", 
+    "nomeLivro": "Ponciá Vicêncio", 
+    "nomeAutora": "Conceição Evaristo",
+    "anoPublicacao": 2017, 
+    "descricao": "A história de Ponciá Vicêncio descreve os caminhos, as andanças, as marcas, os sonhos e os desencantos da protagonista. A autora traça a trajetória da personagem da infância à idade adulta, analisando seus afetos e desafetos e seu envolvimento com a família e os amigos. Discute a questão da identidade de Ponciá, centrada na herança identitária do avô e estabelece um diálogo entre o passado e o presente, entre a lembrança e a vivência, entre o real e o imaginado."
+  },
+  {
+    "id": 5, 
+    "ibsn": "8525041009", 
+    "nomeLivro": "Com Os Meus Olhos De Cão", 
+    "nomeAutora": "Hilda Hilst",
+    "anoPublicacao": 2012, 
+    "descricao": "Em Com Os Meus Olhos De Cão nos encontramos com uma autora absolutamente madura, orquestrando com vigor todos os domínios técnicos da escrita. Como já se sugeriu, a prosa de Hilda é poética, o que se evidencia em qualquer fragmento do texto, que mistura poemas, diálogos e prosa propriamente dita. Retomando recursos anteriormente já experimentados, a autora também multiplica os narradores, tornando ambíguos os enunciadores e criando relações fantasmáticas entre eles, podendo inclusive se replicar em diversos alter egos. O leitor tem que estar atento, pois a passagem de um narrador para outro ou entre presente e passado não é efetuada por procedimentos óbvios da prosa, cabendo ir desmontando, frase após frase, os enunciadores."
+  }
+]

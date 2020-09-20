@@ -1,0 +1,37 @@
+[
+    {
+    "método": "GET",
+    "status": 301,
+    "informacaoStatus": "Moved Permanently"
+},
+
+{
+    "método": "GET",
+    "status": 302,
+    "informacaoStatus": "Found"
+},
+
+{
+    "método": "GET",
+    "status": 414,
+    "informacaoStatus": "URI too long"
+},
+
+{
+    "método": "GET",
+    "status": 200,
+    "informacaoStatus": "OK" 
+},
+
+{
+    "método": "POST",
+    "status": "201",
+    "informacaoStatus": "Created" 
+},
+
+{
+    "método": "POST",
+    "status": 204,
+    "informacaoStatus": "No content"
+}
+]

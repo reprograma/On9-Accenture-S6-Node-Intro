@@ -1,0 +1,19 @@
+{
+  "name": "projeto-nodejs",
+  "version": "1.0.0",
+  "description": "Repositório destinado para o primeiro projeto em nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "métodoshttp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloriateodoro/On9-Accenture-S6-Node-Intro.git"
+  },
+  "author": "Glória Teodoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gloriateodoro/On9-Accenture-S6-Node-Intro/issues"
+  },
+  "homepage": "https://github.com/gloriateodoro/On9-Accenture-S6-Node-Intro#readme"
+}
