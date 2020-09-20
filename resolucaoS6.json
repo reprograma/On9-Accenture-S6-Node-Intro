@@ -1,0 +1,27 @@
+[
+{
+"metodo": "GET",
+"status": 200,
+"informacaoStatus": "sucesso"
+},
+{
+"metodo": "POST",
+"status": 201,
+"informacaoStatus": "REQUISIÇÃO INVÁLIDA"
+},
+{
+"metodo": "GET",  
+"status": 500,   
+"informacaoStatus": "ERRO INTERNO DO SERVIDOR"
+},
+{
+"metodo": "GET",  
+"status": 303,  
+"informacaoStatus": "SOLICITAÇÃO ENCONTRADA"
+},
+{
+"metodo": "GET",  
+"status": 404,  
+"informacaoStatus": "NÃO ENCONTRADO"
+}
+]
