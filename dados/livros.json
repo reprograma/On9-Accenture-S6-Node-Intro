@@ -2,34 +2,34 @@
   {
     "id": 1, 
     "ibsn": "AE10391", 
-    "nomeLivro": "Nome do Livro", 
-    "nomeAutora": "Nome aqui",
+    "nomeLivro": "Um quarto com visita", 
+    "nomeAutora": "E.M.Forster",
     "anoPublicacao": 2020, 
-    "descricao": "Descrição aqui...."
+    "descricao": "Em Um Quarto com Vista, o autor conta a história de Lucy Honeychurch, uma jovem de classe média que viaja para Florença, na Itália, com sua prima Charlotte. Essa viagem mudará os olhos da jovem Lucy, que conhecerá pessoas fora do seu convívio social, incluindo um jovem apaixonante chamado George."
   },
   {
     "id": 2, 
     "ibsn": "AE10204K", 
-    "nomeLivro": "Nome do Livro", 
-    "nomeAutora": "Nome aqui",
+    "nomeLivro": "Me Chame pelo Seu Nome", 
+    "nomeAutora": "André Aciman",
     "anoPublicacao": 2020, 
-    "descricao": "Descrição aqui...."
+    "descricao": "O romance é contado na perspectiva de Élio, que se apaixona pelo estudante e pupilo de seu pai quando ele é convidado para passar algumas semanas em sua casa. O amor entre os dois passará pelos estágios de admiração, atração, apreço e finalmente, carinho e seguimos todas essas nuances através do psicológico de Élio."
   },
   {
     "id": 3, 
     "ibsn": "AE10ASC", 
-    "nomeLivro": "Nome do Livro", 
-    "nomeAutora": "Nome aqui",
+    "nomeLivro": "O Visconde que me Amava ", 
+    "nomeAutora": "Julia Quinn",
     "anoPublicacao": 2020, 
-    "descricao": "Descrição aqui...."
+    "descricao": "O Visconde que me Amava, Quinn narra o conflito e desejo entre Anthony Bridgerton, um charmoso visconde, e Kate, irmã mais velha de Edwina Sheffield, uma debutante bela que é inicialmente desejada por Anthony"
   },
   {
     "id": 4, 
     "ibsn": "AE10MMX-10", 
-    "nomeLivro": "Nome do Livro", 
-    "nomeAutora": "Nome aqui",
-    "anoPublicacao": 2020, 
-    "descricao": "Descrição aqui...."
+    "nomeLivro": "A Culpa é das Estrelas", 
+    "nomeAutora": "John Green",
+    "anoPublicacao": 2012, 
+    "descricao": "O enredo conta a história de Hazel, uma jovem de 16 anos que desde os 13 luta contra um câncer. A jovem passava os seus (poucos) dias de vida sem viver grandes emoções, até que conhece Augustus, um rapaz que perdeu uma das pernas devido a uma doença."
   }
 
 ]

@@ -1,0 +1,12 @@
+{
+    "name": "projeto-nodejs",
+    "version": "1.0.0",
+    "description": "repositorio destinado para ao exercicio",
+    "main": "index.js",
+    "scripts": {
+      "start": "node.js"
+    },
+    "author": "Valeria",
+    "license": "ISC"
+  }
+  
