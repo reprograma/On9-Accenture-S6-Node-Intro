@@ -1,0 +1,72 @@
+/* ....... exercicio do README....... */
+
+api.exercicioDesafioReprograma/ 
+
+[
+    {
+
+    const http = require('http');
+    
+    const metodo = GET;
+
+    const statusCodigo = 500;
+
+    servidor.listen(statusCodigo, () =>{ 
+
+    console.log(`O servidor está rodando na porta ${statusCodigo} = Internal Server Error`)
+})
+    },
+
+       {
+        const http = require('http');
+
+        const metodo = POST;
+
+        const statusCodigo = 200;
+
+        servidor.listen(statusCodigo, () =>{ 
+
+        console.log(`O servidor está rodando na porta ${statusCodigo} = OK`)
+})
+       },
+
+       {
+        const http = require('http');
+
+        const metodo = PUT;
+
+        const statusCodigo = 400;
+
+        servidor.listen(statusCodigo, () =>{ 
+
+        console.log(`O servidor está rodando na porta ${statusCodigo} = Bad Request`)
+})
+        },
+
+        {
+            const http = require('http');
+    
+            const metodo = DELETE;
+    
+            const porta = 404;
+    
+            servidor.listen(porta, () =>{ 
+    
+            console.log(`O servidor está rodando na porta ${porta} = Not Found`)
+    })
+            },
+
+            {
+                const http = require('http');
+        
+                const metodo = PATCH;
+        
+                const porta = 304;
+        
+                servidor.listen(porta, () =>{ 
+        
+                console.log(`O servidor está rodando na porta ${porta} = Not Modified`)
+        })
+                },
+
+   ]
