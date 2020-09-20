@@ -1,0 +1,12 @@
+{
+    "nome" : "Fabi", 
+    "cpfNota": "555858585-55588788",
+    "valorTotalCompra": 300.5,
+    "quatidadeItens": 2,
+    "informacoesCompra": {
+        "nome": "TENIS-X",
+        "valor":300.05,
+        "modeloTenis": "Conforto"
+    },
+    "colaboradora": false
+}

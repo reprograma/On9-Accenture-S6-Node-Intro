@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "isbn": "8582940572",
+        "nomeLivro": "Úrsula",
+        "editora": "Saraiva",
+        "autora": "Maria Firmina dos Reis",
+        "ano": 1859,
+        "descrição": "um triângulo amoroso entre uma jovem humilde, um homem rico e um vilão. Contudo, havia um grande diferencial, a história era contada sob o ponto de vista de três personagens negros."
+    },
+    {
+        "id": 2,
+        "isbn": "9780292780798",
+        "nomeLivro": "As Três Marias",
+        "editora": "Saraiva",
+        "autora": "Rachel de Queiroz",
+        "ano": 1934,
+        "descrição": " A trama é iniciada em um colégio de freiras, onde Maria Augusta, Maria da Glória e Maria José se tornam amigas. Com o passar dos anos, cada uma toma um rumo distinto. Maria da Glória se casa e se torna uma mãe atenciosa, Maria José decide se dedicar totalmente a religião, e Maria Augusta parte em busca de sua independência."
+    },
+    {
+        "id": 2,
+        "isbn": "9788520903551",
+        "nomeLivro": "A Estrutura da Bolha de Sabão",
+        "editora": "Saraiva",
+        "autora": "Lygia Fagundes Telles",
+        "ano": 1978,
+        "descrição": "As protagonistas das histórias, todas mulheres, estão envoltas por conflitos profundos com as pessoas próximas, o lugar em que vivem, e até elas mesmas"
+    }
+]

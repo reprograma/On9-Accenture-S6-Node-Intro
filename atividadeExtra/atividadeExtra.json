@@ -1,0 +1,31 @@
+[
+    {
+        "metodo": "GET",
+        "status": "304 Not Modified",
+        "informacaoStatus": "Resposta utilizada em cenários de cache. Informa ao cliente que a resposta não foi modificada, e nesse sentido, o cliente pode usar a mesma versão em cache da resposta."
+    },
+
+    {
+        "metodo": "GET",
+        "status": "200 OK",
+        "informacaoStatus": "quer dizer que teve sucesso na requisição"
+    },
+
+    {
+        "metodo": "PUT",
+        "status": "406 Not Acceptable",
+        "informacaoStatus": "O formato enviado não é aceito. O cabeçalho Content-Type da requisição deve contar obrigatoriamente o valor application/json para requisições do tipo POST e PUT"
+    },
+
+    {
+        "metodo": "DELETE",
+        "status": "204 No Content",
+        "informacaoStatus": "se a ação foi realizada e nenhuma outra informação deve ser fornecida."
+    },
+
+    {
+        "metodo": "POST",
+        "status":"201 Created",
+        "informacaoStatus":" Indica que a requisição foi bem sucedida e que um novo registro foi criado como resultado."
+    }
+]
