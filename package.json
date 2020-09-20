@@ -1,0 +1,19 @@
+{
+  "name": "projeto-nodejs",
+  "version": "1.0.0",
+  "description": "repositorio destinado para o primeiro projeto em nodejs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irisbrito/On9-Accenture-S6-Node-Intro.git"
+  },
+  "author": "iris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irisbrito/On9-Accenture-S6-Node-Intro/issues"
+  },
+  "homepage": "https://github.com/irisbrito/On9-Accenture-S6-Node-Intro#readme"
+}
