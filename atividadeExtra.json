@@ -1,0 +1,22 @@
+[{
+    "metodo": "POST",
+    "status": 201,
+    "informacaoStatus": "novo recurso criado com sucesso."
+},
+
+{
+    "metodo": "GET",
+    "status": 404, 
+    "informacaoStatus": "recurso solicitado não encontrado (not found)"
+},
+{
+    "metodo": "DELETE",
+    "status": 200,
+    "informacaoStatus": "deletado com sucesso."
+},
+{
+    "metodo":"PUT",
+    "status": 200,
+    "informacaoStatus": "atualizado com sucesso."
+}
+]

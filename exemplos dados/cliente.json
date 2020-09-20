@@ -1,0 +1,14 @@
+{
+    "id": "JHGHFGDFSGHJ123",
+    "nomeCliente": "Layla",
+    "cpfNota": "92036644-98",
+    "valorTotalCompra": 300.50,
+    "quantidadeItens": 2,
+    "informacoesCompra": 
+        {
+        "nome": "TENIS-X",
+        "valor": 300.50,
+        "modeloTenis": "Conforto"
+        },
+    "colaboradora": false
+}

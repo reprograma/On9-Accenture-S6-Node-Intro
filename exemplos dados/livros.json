@@ -1,0 +1,47 @@
+ [
+{
+    "id": 1,
+    "isbn": "978-8555340697",
+    "nomeLivro": "Céu sem estrelas",
+    "editora": "Editora Seguinte",
+    "autora": "Iris Figueiredo",
+    "anoPublicacao": 2018,
+    "descricao": "Um romance sensível e envolvente sobre autoestima, família e saúde mental.",
+},
+{
+    "id": 2,
+    "isbn": "978-8595082298",
+    "nomeLivro": "Sol em Júpiter",
+    "editora": "Harlequin",
+    "autora": "Lola Salgado",
+    "anoPublicacao": 2018,
+    "descricao": "Sol Leão tem uma vida invejável.   Bonita e autoconfiante, ela mora em um apartamento de frente para a praia e seu canal no YouTube, Delírios de Juba, acabou de atingir a marca de 6 milhões de inscritos. Para completar, acaba de ser pedida em casamento pelo homem dos seus sonhos. Mas será que seus dias são tão perfeitos quanto parecem ser nos vídeos e nas fotos do Instagram?.",
+},
+{
+    "id": 3,
+    "isbn": "978-8555340697",
+    "nomeLivro": "Poeta X",
+    "editora": "Editora Record",
+    "autora": "Elizabeth Acevedo",
+    "anoPublicacao": 2018,
+    "descricao": "Best-seller do The New York Times sobre uma adolescente que conta sua história através de uma poesia intensa, crua e poderosa..",
+},
+{
+    "id": 4,
+    "isbn": "978-8555340895",
+    "nomeLivro": "Conectadas",
+    "editora": "Editora Seguinte",
+    "autora": "Clara Alves",
+    "anoPublicacao": 2019,
+    "descricao": "Raíssa e Ayla se conheceram jogando Feéricos, um dos games mais populares do momento, e não se desgrudaram mais ― pelo menos virtualmente.",
+},
+{
+    "id": 5,
+    "isbn": "978-8565765572",
+    "nomeLivro": "Por lugares incríveis",
+    "editora": "Editora Seguinte",
+    "autora": "Jennifer Niven",
+    "anoPublicacao": 2015,
+    "descricao": "Agora um filme Netflix, estrelado por Elle Fanning e Justice Smith. Violet Markey tinha uma vida perfeita, mas todos os seus planos deixam de fazer sentido quando ela e a irmã sofrem um acidente de carro e apenas Violet sobrevive."
+}
+]
