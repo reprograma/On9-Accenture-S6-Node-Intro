@@ -1,0 +1,54 @@
+{
+    "nome": "MAria",
+    "cpfNota": "38484848",
+    "quantidadeItens": 1,
+    "valorTotalCompra": 300.09,
+    "informacoesCompra": {
+        "nome": "TENIS-X",
+        "valor": 300.09,
+        "modeloTenis": "Conforto"
+    },
+    "colaboradora": false
+}
+
+//Objeto dentro de um Array
+
+[
+    {
+        "nome": "MAria",
+        "cpfNota": "38484848",
+        "quantidadeItens": 1,
+        "valorTotalCompra": 300.09,
+        "informacoesCompra": {
+            "nome": "TENIS-X",
+            "valor": 300.09,
+            "modeloTenis": "Conforto"
+        },
+        "colaboradora": false
+    }
+    
+    {
+        "nome": "MAria",
+        "cpfNota": "38484848",
+        "quantidadeItens": 1,
+        "valorTotalCompra": 300.09,
+        "informacoesCompra": {
+            "nome": "TENIS-X",
+            "valor": 300.09,
+            "modeloTenis": "Conforto"
+        }
+            {
+                "nome": "MAria",
+                "cpfNota": "38484848",
+                "quantidadeItens": 1,
+                "valorTotalCompra": 300.09,
+                "informacoesCompra": {
+                    "nome": "TENIS-X",
+                    "valor": 300.09,
+                    "modeloTenis": "Conforto"
+                },
+                "colaboradora": false
+            } },
+        "colaboradora": false
+    
+]
